@@ -1,3 +1,7 @@
+# v2版本 八合一 还有tr木马 脚本作者
+https://github.com/mack-a/v2ray-agent
+https://github.com/maplecool/easytrojan
+
 # v2ray
 V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合
 
